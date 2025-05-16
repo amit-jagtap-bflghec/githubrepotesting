@@ -22,7 +22,7 @@ jobs:
     env:
       DATABRICKS_HOST: ${{ secrets.BIU_URL }}
       DATABRICKS_TOKEN: ${{ secrets.BIU_TOKEN }}
-      REPO_PATH: /Workspace/Users/amit.jagtap1@bajajfinserv.in/githubrepotesting/AJ_TEST1
+      REPO_PATH: /Workspace/Repos/amit.jagtap1@bajajfinserv.in/githubrepotesting/
       # DBFS_LIB_PATH: dbfs:/path/to/libraries/
       # LATEST_WHEEL_NAME: latest_wheel_name.whl
 
